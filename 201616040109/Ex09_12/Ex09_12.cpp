@@ -1,4 +1,4 @@
-// Exercise 9.11 Solution: Ex09_11.cpp
+// Exercise 9.12 Solution: Ex09_12.cpp
 // Test program for modified Rectangle class.
 #include<iostream>
 #include<cmath>
