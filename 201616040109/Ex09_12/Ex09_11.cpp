@@ -1,5 +1,5 @@
 // Exercise 9.11 Solution: Ex09_11.cpp
-// Test program for modified Invoice class.
+// Test program for modified Rectangle class.
 #include<iostream>
 #include<cmath>
 using namespace std;
